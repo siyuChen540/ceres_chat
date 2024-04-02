@@ -1,0 +1,33 @@
+{
+    "Science":{
+        "BRAINSTORMING": [
+            "Find a research topic for a PhD in the area of [TOPIC]",
+            "Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGRAPH]",
+            "Identify gaps in the literature on [TOPIC SENTENCE]",
+            "Generate 10 academic research questions about [PARAGRAPHS]",
+            "Generate a list of research hypotheses related to [TOPIC SENTENCE]",
+            "Identify potential areas for future research in the context of this [TOPIC SENTENCE]",
+            "Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]"
+        ],
+        "ARTICLE SECTIONS":{
+            "title":[
+                "Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]",
+                "Write a topic sentence for this paragraph: [PARAGRAPH] "
+            ],
+            "keywords":[
+                "Provide 5 keywords for this: [PARAGRAPHS]"
+            ],
+            "abstract":[
+                "Generate an abstract for a scientific paper based on this information for: [PARAGRAPHS]"
+            ],
+            "outline":[
+                "Generate an outline for [TOPIC SENTENCE]",
+                "I want to write a journal article about [TOPIC SENTENCE]. Give me an outline for the article that I can use as a starting point."
+            ],
+            "introduction":[
+                "Come up with an introduction for the following research topic: [TOPIC SENTENCE]"
+            ]
+        }
+    }
+    
+}
