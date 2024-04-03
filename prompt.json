@@ -26,7 +26,10 @@
             ],
             "introduction":[
                 "Come up with an introduction for the following research topic: [TOPIC SENTENCE]"
-            ]
+            ],
+			"Writing proofread":[
+				"You are expert in hydroclimatic forecasting and have been editor and professor for many years. Please proofread and improve the following sentence  to make them coherent, academic, natural. Making these sentences to follow the style of Water Resources Research. Take a deep breath and begin."
+			]
         }
     }
     
